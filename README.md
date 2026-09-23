@@ -61,30 +61,6 @@ Build → Break → Understand → Improve → Ship
 
 ---
 
-## ⭐ Featured Projects
-
-### 📰 TradaCongnghe
-
-Technology news platform focused on **AI and emerging technologies**.
-
-`React` · `TypeScript` · `Payload CMS` · `PostgreSQL` · `Vercel`
-
-[Live Demo →](https://tradacongnghe.vercel.app/)
-
-### 🧠 ThinkTrace
-
-AI education platform designed to help students **think with AI instead of simply depending on AI**.
-
-`Full-Stack` · `AI` · `PostgreSQL`
-
-### 🤖 AI Experiments
-
-Exploring practical applications of:
-
-`LLM` · `RAG` · `Embeddings` · `Vector Search` · `AI Agents`
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
