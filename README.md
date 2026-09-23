@@ -91,16 +91,6 @@ Build → Break → Understand → Improve → Ship
 
 ---
 
-## 🌱 Currently Exploring
-
-<div align="center">
-
-`Spring Boot` · `System Design` · `Microservices` · `Cloud` · `RAG` · `AI Agents`
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -109,7 +99,7 @@ I'm interested in **Full-Stack Development, Backend Engineering, AI, developer t
 
 <br/>
 
-[GitHub](https://github.com/HNyat) · [LinkedIn](YOUR_LINKEDIN) · [Portfolio](YOUR_PORTFOLIO)
+[GitHub](https://github.com/HNyat) · [LinkedIn](https://www.linkedin.com/in/hu%E1%BB%B3nh-nh%E1%BA%ADt-a2860b323/) · [Portfolio](YOUR_PORTFOLIO)
 
 <br/><br/>
 
